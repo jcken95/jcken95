@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcken95
-- 👀 I work as a data scientist at [Jumping Rivers](jumpingrivers.com)
+- 👀 I work as a data scientist at [Jumping Rivers](https://jumpingrivers.com)
 <!---
 - 🌱 I’m currently learning how 
 - 💞️ I’m looking to collaborate on ...
