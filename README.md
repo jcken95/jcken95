@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jcken95
+- 👋 Hi, I’m Jack
 - 👀 I work as a data scientist at [Jumping Rivers](https://jumpingrivers.com)
 - 🤝 Get to know me: [jcken95.github.io](https://jcken95.github.io)
 - 📫 How to reach me: [twitter](https://twitter.com/_jcken), [mastodon](https://qoto.org/@_jcken) or email <jckennedy18@gmail.com>
