@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jack
-- 👀 I work as a data scientist at [Jumping Rivers](https://jumpingrivers.com)
+- 👀 I'm a senior data scientist at [UKHSA](https://www.gov.uk/government/organisations/uk-health-security-agency)
+- 🤮 My day to day is forecasting infecttious diseases
 - 🤝 Get to know me: [jcken95.github.io](https://jcken95.github.io)
 - 📫 How to reach me: [twitter](https://twitter.com/_jcken), [mastodon](https://qoto.org/@_jcken) or email <jckennedy18@gmail.com>
 
